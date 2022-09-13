@@ -1,0 +1,11 @@
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\bin\Debug\FIFO_y_LIFO_en_memoria.exe.config
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\bin\Debug\FIFO_y_LIFO_en_memoria.exe
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\bin\Debug\FIFO_y_LIFO_en_memoria.pdb
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.csproj.AssemblyReference.cache
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.Form1.resources
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.Properties.Resources.resources
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.csproj.GenerateResource.cache
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.csproj.CoreCompileInputs.cache
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.exe
+C:\Users\54351\source\repos\FIFO_y_LIFO_en_memoria\FIFO_y_LIFO_en_memoria\obj\Debug\FIFO_y_LIFO_en_memoria.pdb
